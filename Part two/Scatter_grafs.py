@@ -121,13 +121,15 @@ def main():
             )
 
             fig.show()
-
+            
             # Создает директорию, если она не существуе
             if not os.path.exists("images"):
                 os.mkdir("images")
 
             try:
-                fig.write_image(f"images/{area}.jpeg", width=1500, height=1500)
+                #Убирает из названия областей \, чтобы не было проблемы с выстраиванием пути 
+                area = area.replace("\\","-")
+                fig.write_image(f"images\{area}.png", format='png', width=1500, height=1500)
             except TypeError as error:
                 print(error)
         
