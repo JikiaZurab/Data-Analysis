@@ -14,4 +14,8 @@ __images__ хранит все файли .png с графиками. Эту п�
 
 __ВАЖНО__ для корректной работы необходимо выполнит обе части работы последовательно.
 
-С результирующей таблицей можно ознакоомиться [тут.](https://docs.google.com/spreadsheets/d/1DTK-vR7hEb5cXZScVuFfskA19iYEt8g69qfZxnxun2Y/edit)
+[__Начальная таблица__](https://docs.google.com/spreadsheets/d/165sp-lWd1L4qWxggw25DJo_njOCvzdUjAd414NSE8co/edit#gid=1439079331)
+
+[__Результирующая таблица__](https://docs.google.com/spreadsheets/d/1DTK-vR7hEb5cXZScVuFfskA19iYEt8g69qfZxnxun2Y/edit)
+
+[__Все изображения графиков__](https://drive.google.com/drive/folders/1E6sXSo4MnlWWOEDDgIuY2us-OXxapHmg?usp=drive_link)
